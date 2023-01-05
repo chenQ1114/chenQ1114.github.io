@@ -17,42 +17,64 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I joined School of Computer Science and Technology, Wuhan University of Science and Technology as a lecturer in Sept. 2020. I received the B.Eng. degree and PhD degree in computer science from 
+China University of Geosciences (Wuhan) under the supervision of [Prof. Zhihua Cai](https://grzy.cug.edu.cn/caizhihua/en/index/22178/list/index.htm). I also collaborate
+with [Anders Soeggard](https://anderssoegaard.github.io/), [Desmond Elliott](https://elliottd.github.io/index.html) in DIKU, University of Copenhagen closely.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research interests include question answering and multilingual multimodal representation learning. 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.12*: &nbsp;🎉🎉 New paper accepted at EMNLP 2022 on [Multilingual Multimodal Learning with Machine Translated Text](https://paperswithcode.com/paper/multilingual-multimodal-learning-with-machine).
+- *2022.12*: &nbsp;🎉🎉 New paper accepted at Information Processing & Management (IPM) on [A Question-Guided Multi-hop Reasoning Graph Network for
+Visual Question Answering](https://www.sciencedirect.com/science/article/abs/pii/S0306457322003089). It will be published on March 2023!  
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+1. [A Question-Guided Multi-hop Reasoning Graph Network for
+Visual Question Answering](https://www.sciencedirect.com/science/article/abs/pii/S0306457322003089) <br> Zhaoyang Xu, Jinguang Gu, Maofu Liu, Guangyou Zhou, Haidong Fu, and **Chen Qiu*** 
+<br> In Information Processing & Management. **(IPM 2023)** 
+2. [Multilingual Multimodal Learning with Machine Translated Text](https://paperswithcode.com/paper/multilingual-multimodal-learning-with-machine)
+<br> **Chen Qiu**, Dan Oneata, Emanuele Bugliarello, Stella Frank, Desmond Elliott 
+<br> In Findings of Empirical Methods in Natural Language Processing **(EMNLP 2022)**. | [Code](https://github.com/danoneata/td-mml)
+3. [A Global–Local Attentive Relation Detection Model for Knowledge-Based Question Answering](https://ieeexplore.ieee.org/document/9392350)
+<br> **Chen Qiu**, Guangyou Zhou, Zhihua Cai, Anders Soeggard
+<br> In IEEE Transactions on Artificial Intelligence. **(TAI 2021)**.
+4. [A Multilingual Benchmark for Probing Negation-Awareness with Minimal Pairs](https://aclanthology.org/2021.conll-1.19/)
+<br> Mareike Hartmann, Miryam de Lhoneux, Daniel Hershcovich, Yova Kementchedjhieva, Lukas Nielsen, Chen Qiu, Anders Søgaard
+<br> In Proceedings of the 25th Conference on Computational Natural Language Learning. **(CoNLL 2021)**.
+5. [On Language Models for Creoles](https://aclanthology.org/2021.conll-1.5/)
+<br> Heather Lent, Emanuele Bugliarello, Miryam de Lhoneux, Chen Qiu, Anders Søgaard
+<br> In Proceedings of the 25th Conference on Computational Natural Language Learning. **(CoNLL 2021)**.
+6. [Rewarding Coreference Resolvers for Being Consistent with World Knowledge](https://aclanthology.org/D19-1118/)
+<br> Rahul Aralikatte, Heather Lent, Ana Valeria Gonzalez, Daniel Herschcovich, Chen Qiu, Anders Sandholm, Michael Ringaard, Anders Søgaard
+<br> In Empirical Methods in Natural Language Processing and International Joint Conference on Natural Language Processing. **(EMNLP-IJCNLP 2019)**.
+7. [Using Differential Evolution to Estimate Labeler Quality for Crowdsourcing](https://link.springer.com/chapter/10.1007/978-3-319-97310-4_19)
+<br> **Chen Qiu**, Liangxiao Jiang, Zhihua Cai
+<br> In Pacific Rim International Conference on Artificial Intelligence. **(PRICAI 2018)**.
+8. [Randomly Selected Decision Tree for Test-cost Sensitive Learning](https://www.sciencedirect.com/science/article/abs/pii/S1568494616306767)
+<br> **Chen Qiu**, Liangxiao Jiang*, Chaoqun Li
+<br> In **Applied Soft Computing**, 2017.
+9. [Not Always Simple Classification: Learning SuperParent for Class Probability Estimation](https://www.sciencedirect.com/science/article/abs/pii/S0957417415001566)
+<br> **Chen Qiu**, Liangxiao Jiang*, Chaoqun Li
+<br> In Expert Systems with Applications. **(ESWA 2015)**.
+10. [A Differential Evolution-Based Method for Class-Imbalanced Cost-Sensitive Learning](https://ieeexplore.ieee.org/document/7280419)
+<br> **Chen Qiu**, Liangxiao Jiang*, Ganggang Kong
+<br> In International Joint Conference on Neural Networks. **(IJCNN 2015)**.
+11. [A Novel Minority Cloning Technique for Cost-Sensitive Learning](https://www.worldscientific.com/doi/10.1142/S0218001415510040)
+<br> Liangxiao Jiang, Chen Qiu and Chaoqun Li
+<br> In International Journal of Pattern Recognition and Artificial Intelligence. **(PRICAI 2015)**.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+# 🎖 Professional services
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- Program Committee: ACL 2023
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Reviewer: EMNLP, ESWA, TEVC, IJCNN, KBS, FSDM, ICIC
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2014.06 - 2020.06*, PhD, successive postgraduate and doctoral programs of study, China University of Geosciences, Wuhan.
+- *2018.12 - 2019.12*, Joint PhD, University of Copenhagen. 
+- *2010.09 - 2014.06*, B.Eng, China University of Geosciences, Wuhan.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.12*, EMNLP 2022 Pre-Thesis Seminar, BAAI internal talk.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
