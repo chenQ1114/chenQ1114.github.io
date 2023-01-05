@@ -62,7 +62,7 @@ Visual Question Answering](https://www.sciencedirect.com/science/article/abs/pii
 <br> In International Joint Conference on Neural Networks. **(IJCNN 2015)**.
 11. [A Novel Minority Cloning Technique for Cost-Sensitive Learning](https://www.worldscientific.com/doi/10.1142/S0218001415510040)
 <br> Liangxiao Jiang, Chen Qiu and Chaoqun Li
-<br> In International Journal of Pattern Recognition and Artificial Intelligence. **(PRICAI 2015)**.
+<br> In International Journal of Pattern Recognition and Artificial Intelligence. **(IJPRAI 2015)**.
 
 # 🎖 Professional services
 
