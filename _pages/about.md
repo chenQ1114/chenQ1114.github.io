@@ -82,5 +82,6 @@ Visual Question Answering](https://www.sciencedirect.com/science/article/abs/pii
 - *2010.09 - 2014.06*, B.Eng, China University of Geosciences, Wuhan.
 
 # 💬 Invited Talks
+- *2023.04*, Workshop on Opportunities and Challenges in Medical Information Processing in the Era of AI Large Language Models，oral report.
 - *2022.12*, EMNLP 2022 Pre-Thesis Seminar, BAAI internal talk.
 
